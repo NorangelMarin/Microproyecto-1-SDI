@@ -4,6 +4,33 @@
     background-color: lightgrey;
 }
 
+.Navbar {
+    margin: 30px 45px;
+    padding: 20px; 
+    background-color: #fff;
+}
+
+.Navbar ul {
+    list-style: none;
+}
+
+.Menu > li{ 
+    position: relative; 
+    display: inline-block;
+}
+
+.Menu > li > a { 
+    display: block; 
+    padding: 15px 65px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    text-decoration: none; 
+    color: black;}
+
+.Menu li a:hover{
+    color: coral;
+    transition: all .3;
+}
+
 .TablaExp > img{
     width: 100px;
     height: 100px;
