@@ -1,4 +1,6 @@
 window.addEventListener('load', function(){
+    console.log("Pagina Cargada");
+
     var img=[];
     img[0]="imagenes/slide/img1.jpg";
     img[1]="imagenes/slide/img2.jpg";
