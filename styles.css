@@ -18,7 +18,7 @@ h2{
     text-align: center;
 }
 
-.Hero{
+#Hero{
     margin: 30px 45px;
     background-color: lavender;
 }
@@ -36,13 +36,13 @@ h3{
     font-family: cursive;
 }
 
-.Navbar {
+#Navbar {
     margin: 30px 45px;
     padding: 20px; 
     background-color: #fff;
 }
 
-.Navbar ul {
+#Navbar ul {
     list-style: none;
 }
 
@@ -63,17 +63,17 @@ h3{
     transition: all .3;
 }
 
-.AboutMe{
+#AboutMe{
     margin: 30px 45px;
     padding: 20px;
     background-color: peachpuff;
     outline: 2px peachpuff auto;
 }
 
-.AboutMe img{
+#AboutMe img{
     padding: 14.5px;
-    width: 30%;
-    height: 30%;
+    width: 250px;
+    height: 250px;
     align-self: center;
 }
 
@@ -100,7 +100,7 @@ dd{
     text-align: justify;
 }
 
-.Experience{
+#Experience{
     margin: 30px 45px;
     padding: 20px;
     background-color: whitesmoke;
@@ -127,7 +127,7 @@ dd{
     height: 150px;
 }
 
-.ContactMe{
+#ContactMe{
     margin: 30px 45px;
     padding: 20px;
     background-color: peachpuff;
