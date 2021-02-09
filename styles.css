@@ -4,7 +4,16 @@
 }
 
 body{
+    margin: 20px auto;
+    width: 80%;
     background-color: lightgray;
+    font-family: Century Gothic, 'Times New Roman', Times, serif;
+}
+
+h3{
+    padding: 5px;
+    font-size: 24px;
+    font-family: cursive;
 }
 
 .Navbar {
@@ -32,6 +41,42 @@ body{
 .Menu li a:hover{
     color: coral;
     transition: all .3;
+}
+
+.AboutMe{
+    margin: 30px 45px;
+    padding: 20px;
+    background-color: peachpuff;
+    outline: 2px peachpuff auto;
+}
+
+.AboutMe img{
+    padding: 14.5px;
+    width: 30%;
+    height: 30%;
+    align-self: center;
+}
+
+.InformacionPersonal {
+    display: flex;
+}
+
+dl{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+dt{
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+}
+
+dd{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .TablaExp img{
