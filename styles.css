@@ -10,6 +10,12 @@ body{
     font-family: Century Gothic, 'Times New Roman', Times, serif;
 }
 
+.Hero{
+    width: 80%;
+    height: 460px;
+    background-color: lime;
+}
+
 h3{
     padding: 5px;
     font-size: 24px;
@@ -77,6 +83,7 @@ dd{
     margin-left: 20px;
     margin-top: 10px;
     margin-bottom: 10px;
+    text-align: justify;
 }
 
 .Experience{
