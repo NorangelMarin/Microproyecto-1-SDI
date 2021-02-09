@@ -79,7 +79,30 @@ dd{
     margin-bottom: 10px;
 }
 
+.Experience{
+    margin: 30px 45px;
+    padding: 20px;
+    background-color: whitesmoke;
+    outline: 2px auto whitesmoke;
+}
+
+.TablaExp{
+    width: 80%;
+}
+
+.Fecha {
+    padding: 15px 65px;
+    text-align: center;
+}
+
+.Contenido {
+    padding: 15px;
+    width: 70%;
+    text-align: center;
+}
+
 .TablaExp img{
+    padding: 15px;
     width: 150px;
     height: 150px;
 }
