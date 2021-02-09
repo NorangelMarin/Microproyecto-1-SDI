@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: lightgrey;
+}
+
+.TablaExp > img{
+    width: 100px;
+    height: 100px;
+}
+
