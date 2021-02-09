@@ -1,7 +1,10 @@
 *{
     margin: 0px;
     padding: 0px;
-    background-color: lightgrey;
+}
+
+body{
+    background-color: lightgray;
 }
 
 .Navbar {
@@ -31,8 +34,8 @@
     transition: all .3;
 }
 
-.TablaExp > img{
-    width: 100px;
-    height: 100px;
+.TablaExp img{
+    width: 150px;
+    height: 150px;
 }
 
