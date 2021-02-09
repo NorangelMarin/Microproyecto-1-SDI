@@ -10,10 +10,24 @@ body{
     font-family: Century Gothic, 'Times New Roman', Times, serif;
 }
 
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
 .Hero{
+    margin: 30px 45px;
+    background-color: lavender;
+}
+
+#Slide{
+    margin-left: 93px;
     width: 80%;
-    height: 460px;
-    background-color: lime;
+    height: 450px;
+    margin-top: 5px;
 }
 
 h3{
