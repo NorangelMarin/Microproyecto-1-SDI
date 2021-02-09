@@ -98,12 +98,11 @@ dd{
 .Contenido {
     padding: 15px;
     width: 70%;
-    text-align: center;
 }
 
 .TablaExp img{
     padding: 15px;
-    width: 150px;
+    width: 200px;
     height: 150px;
 }
 
@@ -129,4 +128,13 @@ dd{
     padding: 5px;
     display: block;
     text-align: center;
+}
+
+.Formulario{
+    background-color: coral;
+    outline: 2px auto coral;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    padding: 5px;
 }
